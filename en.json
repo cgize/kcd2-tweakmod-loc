@@ -1,4 +1,9 @@
 {
+    "home_title": "Welcome to KCD2 Mod Tweaker",
+    "home_description_text": "Select a category from the sidebar to modify game settings.",
+    "button_label": "Click me",
+    "button_alert": "Hello!",
+
     "app_title": "KCD2 Mod Tweaker",
     "game_path_label": "Game Path:",
     "game_path_placeholder": "Select game path...",
@@ -11,9 +16,9 @@
     "compile_pak_btn": "Build PAK",
     "launch_game_btn": "Launch Game (-devmode)",
     "version_footer": "Version 1.0.0 (24/02/2025) | cgize",
+
     "categories-title": "Categories",
     "category_all": "All Mods",
-
     "category_interface": "Interface",
     "category_combat": "Combat",
     "category_gameplay": "Gameplay",
@@ -34,7 +39,6 @@
     "compile_pak_success_message": "The tweakmods.pak file has been created successfully!",
     "compile_pak_error_title": "Compilation Failed",
     "compile_pak_error_message": "There was an error compiling the PAK file. Check the console for details.",
-
     "launch_game_title": "Game Launched",
     "launch_game_message": "Kingdom Come: Deliverance 2 is starting...",
     "launch_game_error_title": "Launch Failed",

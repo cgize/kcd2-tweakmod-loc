@@ -10,7 +10,7 @@
     "apply_changes_btn": "Apply Changes",
     "compile_pak_btn": "Build PAK",
     "launch_game_btn": "Launch Game (-devmode)",
-    "version_footer": "",
+    "version_footer": "Version 1.0.0 (24/02/2025) | cgize",
     "categories-title": "Categories",
     "category_all": "All Mods",
 
@@ -62,5 +62,12 @@
     "quick_alchemy": "Quick Alchemy",
     "challenging_economy": "Challenging Economy",
     "armor_durability": "Change Armor Durability",
-    "more_fast_travel_encounters": "More Fast Travel Encounters"
+    "more_fast_travel_encounters": "More Fast Travel Encounters",
+
+    "mod_description_no_fall_damage": "Reduces damage taken from falls, higher numbers increase resistance",
+    "mod_description_stamina_consume_fighting": "Modifies the stamina cost when attacking, higher numbers increase consumption",
+    "mod_description_richer_merchants": "Modifies the amount of money shops have available. Higher numbers mean more cash",
+    "mod_description_quick_alchemy": "Removes animations when entering and exiting the alchemy table, maintaining fluidity",
+    "mod_description_challenging_economy": "Modifies the value at which shops buy your items, higher numbers increase the amount",
+    "mod_description_ai_better_combat": "The AI is modified to change attack directions more frequently, as well as Riposte and Masterstrike."
 }

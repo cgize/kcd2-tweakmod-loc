@@ -51,7 +51,7 @@
     "weight_helmet": "Change Helmet Weight",
     "weight_armor": "Change Armor Weight",
     "weight_food": "Change Food Weight",
-    "dmg_weapon": "Change Malee Weapon Damage ",
+    "dmg_weapon": "Change Melee Weapon Damage ",
     "defense_armor": "Change Armor Defense",
     "no_fall_damage": "Change Fall Damage",
     "xp_multiplier": "XP Multiplier",
@@ -68,10 +68,11 @@
     "armor_durability": "Change Armor Durability",
     "more_fast_travel_encounters": "More Fast Travel Encounters",
 
-    "mod_description_no_fall_damage": "Reduces damage taken from falls, higher numbers increase resistance",
-    "mod_description_stamina_consume_fighting": "Modifies the stamina cost when attacking, higher numbers increase consumption",
-    "mod_description_richer_merchants": "Modifies the amount of money shops have available. Higher numbers mean more cash",
-    "mod_description_quick_alchemy": "Removes animations when entering and exiting the alchemy table, maintaining fluidity",
-    "mod_description_challenging_economy": "Modifies the value at which shops buy your items, higher numbers increase the amount",
-    "mod_description_ai_better_combat": "The AI is modified to change attack directions more frequently, as well as Riposte and Masterstrike."
+    "desc_disable_aim_zoom": "Disables or minimizes the aim zoom effect by setting the maximum zoom to a low value.",
+    "desc_no_fall_damage": "Reduces damage taken from falls, higher numbers increase resistance",
+    "desc_stamina_consume_fighting": "Modifies the stamina cost when attacking, higher numbers increase consumption",
+    "desc_richer_merchants": "Modifies the amount of money shops have available. Higher numbers mean more cash",
+    "desc_quick_alchemy": "Removes animations when entering and exiting the alchemy table, maintaining fluidity",
+    "desc_challenging_economy": "Modifies the value at which shops buy your items, higher numbers increase the amount",
+    "desc_ai_better_combat": "The AI is modified to change attack directions more frequently, as well as Riposte and Masterstrike."
 }

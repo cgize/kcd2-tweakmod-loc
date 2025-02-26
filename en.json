@@ -1,9 +1,4 @@
 {
-    "home_title": "Welcome to KCD2 Mod Tweaker",
-    "home_description_text": "Select a category from the sidebar to modify game settings.",
-    "button_label": "Click me",
-    "button_alert": "Hello!",
-
     "app_title": "KCD2 Mod Tweaker",
     "game_path_label": "Game Path:",
     "game_path_placeholder": "Select game path...",
@@ -43,7 +38,6 @@
     "launch_game_message": "Kingdom Come: Deliverance 2 is starting...",
     "launch_game_error_title": "Launch Failed",
     "launch_game_error_message": "Failed to launch the game. Check the console for details.",
-
     "ai_better_combat": "Better Combat AI",
     "disable_fast_travel": "Disable Fast Travel",
     "weight_ammo": "Change Ammo Weight", 
@@ -53,7 +47,7 @@
     "weight_food": "Change Food Weight",
     "dmg_weapon": "Change Melee Weapon Damage ",
     "defense_armor": "Change Armor Defense",
-    "no_fall_damage": "Change Fall Damage",
+    "change_fall_damage": "Change Fall Damage",
     "xp_multiplier": "XP Multiplier",
     "nonalcoholic_s_schnapps": "Non-Alcoholic Savior Schnapps",
     "footwear_durability": "Change Footwear Durability",
@@ -67,6 +61,8 @@
     "challenging_economy": "Challenging Economy",
     "armor_durability": "Change Armor Durability",
     "more_fast_travel_encounters": "More Fast Travel Encounters",
+    "disable_aim_zoom": "Disable Aim Zoom",
+    "money_weight": "Change Money Weight",
 
     "desc_disable_aim_zoom": "Disables or minimizes the aim zoom effect by setting the maximum zoom to a low value.",
     "desc_no_fall_damage": "Reduces damage taken from falls, higher numbers increase resistance",
@@ -74,5 +70,10 @@
     "desc_richer_merchants": "Modifies the amount of money shops have available. Higher numbers mean more cash",
     "desc_quick_alchemy": "Removes animations when entering and exiting the alchemy table, maintaining fluidity",
     "desc_challenging_economy": "Modifies the value at which shops buy your items, higher numbers increase the amount",
-    "desc_ai_better_combat": "The AI is modified to change attack directions more frequently, as well as Riposte and Masterstrike."
+    "desc_ai_better_combat": "The AI is modified to change attack directions more frequently, as well as Riposte and Masterstrike.",
+    "desc_money_weight": "Modifies the weight of money in the game, higher numbers increase the weight",
+    "desc_change_fall_damage": "Multiplies the fall heights that determine when damage occurs. Higher values make falls less dangerous.",
+    "desc_quest_reward_money": "Adjusts the money reward from quests. Higher values increase the reward.",
+    "desc_blacksmith_speed": "Modifies blacksmithing parameters to adjust speed and quality. Higher values can make blacksmithing faster or affect quality.",
+    "desc_sharpening_speed": "Adjusts the angles for sharpening weapons. Higher values change the ideal and destruction angles."
 }

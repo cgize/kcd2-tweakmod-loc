@@ -10,7 +10,7 @@
     "apply_changes_btn": "Aplicar Mudanças",
     "compile_pak_btn": "Contruir Arquivo PAK",
     "launch_game_btn": "Iniciar o Jogo (-devmode)",
-    "version_footer": "Versão 0.2b (21/02/2025) | cgize",
+    "version_footer": "Versão 1.0.0 (24/02/2025) | cgize",
 
     "categories-title": "Categorias",
     "category_all": "Todos os Mods",
@@ -46,7 +46,7 @@
     "weight_armor": "Mudar o Peso das Armaduras",
     "weight_food": "Mudar o Peso das Comidas",
     "dmg_weapon": "Mudar Dano Causo por Armas Corpo a Corpo ",
-    "defence_armor": "Mudar a Defesa das Armaduras",
+    "defense_armor": "Mudar a Defesa das Armaduras",
     "change_fall_damage": "Mudar Dano Causado por Queda",
     "xp_multiplier": "Multiplicar o Ganho de XP por:",
     "nonalcoholic_s_schnapps": "Non-Alcoholic Savior Schnapps",
@@ -61,16 +61,19 @@
     "challenging_economy": "Challenging Economy",
     "armor_durability": "Alterar a durabilidade das armaduras",
     "more_fast_travel_encounters": "Mais encontros em viagens rápidas",
+    "disable_aim_zoom": "Desativar o zoom ao mira",
+    "money_weight": "Alterar o peso do dinheiro",
 
     "desc_disable_aim_zoom": "Desativa ou minimiza o efeito de zoom ao mirar, definindo o zoom máximo para um valor baixo.",
-    "desc_money_weight": "Modifica o peso do dinheiro no jogo, números maiores aumentam o peso.",
-    "desc_change_fall_damage": "Multiplica as alturas de queda que determinam quando o dano ocorre. Valores maiores tornam as quedas menos perigosas.",
-    "desc_quest_reward_money": "Ajusta a recompensa em dinheiro das missões. Valores maiores aumentam a recompensa.",
-    "desc_blacksmith_speed": "Modifica os parâmetros de ferraria para ajustar a velocidade e a qualidade. Valores maiores podem tornar a ferraria mais rápida ou afetar a qualidade.",
-    "desc_sharpening_speed": "Ajusta os ângulos para afiar armas. Valores maiores alteram os ângulos ideais e de destruição.",
+    "desc_no_fall_damage": "Reduz o dano causado por quedas; números mais altos aumentam a resistência",
     "desc_stamina_consume_fighting": "Modifica o custo de vigor ao atacar, números maiores aumentam o consumo.",
     "desc_richer_merchants": "Modifica a quantidade de dinheiro que as lojas têm disponível. Números maiores significam mais dinheiro.",
     "desc_quick_alchemy": "Remove as animações ao entrar e sair da mesa de alquimia, mantendo a fluidez.",
     "desc_challenging_economy": "Modifica o valor pelo qual as lojas compram seus itens, números maiores aumentam o valor.",
-    "desc_ai_better_combat": "A IA é modificada para mudar as direções de ataque com mais frequência, assim como Riposte e Masterstrike."
+    "desc_ai_better_combat": "A IA é modificada para mudar as direções de ataque com mais frequência, assim como Riposte e Masterstrike.",
+    "desc_money_weight": "Modifica o peso do dinheiro no jogo; números mais altos aumentam o peso.",
+    "desc_change_fall_damage": "Multiplica as alturas de queda que determinam quando o dano ocorre. Valores maiores tornam as quedas menos perigosas.",
+    "desc_quest_reward_money": "Ajusta a recompensa em dinheiro das missões. Valores maiores aumentam a recompensa.",
+    "desc_blacksmith_speed": "Modifica os parâmetros de ferraria para ajustar a velocidade e a qualidade. Valores maiores podem tornar a ferraria mais rápida ou afetar a qualidade.",
+    "desc_sharpening_speed": "Ajusta os ângulos para afiar armas. Valores maiores alteram os ângulos ideais e de destruição."
 }

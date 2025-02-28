@@ -63,6 +63,10 @@
     "more_fast_travel_encounters": "More Fast Travel Encounters",
     "disable_aim_zoom": "Disable Aim Zoom",
     "money_weight": "Change Money Weight",
+    "quest_reward_money": "Change Quest Money Reward",	
+    "blacksmith_speed": "Change Blacksmith Speed",
+    "sharpening_speed": "Change Sharpening Speed",
+    "dmg_ammo": "Change Ammo Damage",
 
     "desc_disable_aim_zoom": "Disables or minimizes the aim zoom effect by setting the maximum zoom to a low value.",
     "desc_no_fall_damage": "Reduces damage taken from falls, higher numbers increase resistance",
@@ -73,7 +77,7 @@
     "desc_ai_better_combat": "The AI is modified to change attack directions more frequently, as well as Riposte and Masterstrike.",
     "desc_money_weight": "Modifies the weight of money in the game, higher numbers increase the weight",
     "desc_change_fall_damage": "Multiplies the fall heights that determine when damage occurs. Higher values make falls less dangerous.",
-    "desc_quest_reward_money": "Adjusts the money reward from quests. Higher values increase the reward.",
-    "desc_blacksmith_speed": "Modifies blacksmithing parameters to adjust speed and quality. Higher values can make blacksmithing faster or affect quality.",
-    "desc_sharpening_speed": "Adjusts the angles for sharpening weapons. Higher values change the ideal and destruction angles."
+    "desc_quest_reward_money": "Adjusts the money reward from quests. Higher values increase the rewards.",
+    "desc_blacksmith_speed": "Modifies blacksmithing parameters to adjust speed and quality. Higher values can make blacksmithing faster.",
+    "desc_sharpening_speed": "Adjust the sharpening angle tolerance, higher numbers decrease the difficult."
 }

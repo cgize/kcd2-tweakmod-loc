@@ -58,9 +58,12 @@
     "free_camera_mode": "Ativar o modo de câmera livre",
     "instant_pick_herb": "Colher instantaneamente as ervas",
     "quick_alchemy": "Alquimia rápida",
-    "challenging_economy": "Challenging Economy",
+    "challenging_economy": "Economia desafiadora",
     "armor_durability": "Alterar a durabilidade das armaduras",
     "more_fast_travel_encounters": "Mais encontros em viagens rápidas",
+    "quest_reward_money": "Alterar Dinheiro da quest",	
+    "blacksmith_speed": "Alterar velocidade ferreiro",
+    "sharpening_speed": "Alterar velocidade afiar",
 
     "desc_disable_aim_zoom": "Desativa ou minimiza o efeito de zoom ao mirar, definindo o zoom máximo para um valor baixo.",
     "desc_money_weight": "Modifica o peso do dinheiro no jogo, números maiores aumentam o peso.",

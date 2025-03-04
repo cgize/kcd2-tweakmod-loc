@@ -1,6 +1,6 @@
 # KCD2 Tweakmods Localization
 
-This document outlines the localization process for the KCD2 Tweakmods application.
+This document outlines the localization process for the KCD2 Mod Tweaker App
 
 ## Localization File Format
 

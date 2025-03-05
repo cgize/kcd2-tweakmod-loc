@@ -1,7 +1,3 @@
-# KCD2 Tweakmods Localization
-
-This document outlines the localization process for the KCD2 Mod Tweaker App
-
 ## Localization File Format
 
 The localization files are in JSON format. Each language should have its own JSON file.

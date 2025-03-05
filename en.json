@@ -89,6 +89,8 @@
     "sharpening_speed": "Change Sharpening Speed",
     "dmg_ammo": "Change Ammo Damage",
     "weight_herbs": "Change Herbs Weight",
+    "potion_duration": "Change Potions Duration",
+    "bow_charge_speed": "Change Bow Draw Charge Speed",
 
     "desc_disable_aim_zoom": "Disables or minimizes the aim zoom effect by setting the maximum zoom to a low value.",
     "desc_no_fall_damage": "Reduces damage taken from falls, higher numbers increase resistance",
@@ -101,5 +103,7 @@
     "desc_change_fall_damage": "Multiplies the fall heights that determine when damage occurs. Higher values make falls less dangerous.",
     "desc_quest_reward_money": "Adjusts the money reward from quests. Higher values increase the rewards.",
     "desc_blacksmith_speed": "Modifies blacksmithing parameters to adjust speed and quality. Higher values can make blacksmithing faster.",
-    "desc_sharpening_speed": "Adjust the sharpening angle tolerance, higher numbers decrease the difficult."
+    "desc_sharpening_speed": "Adjust the sharpening angle tolerance, higher numbers decrease the difficult.",
+    "desc_potion_duration": "Adjust the duration of all potions except Nighthawk, higher numbers increase the duration.",
+    "desc_bow_charge_speed": "Adjust the speed at which the bow draw is charged, lower numbers increase the speed."
 }
